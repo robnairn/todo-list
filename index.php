@@ -1,8 +1,8 @@
 <?php
 // Database connection
 $servername = "localhost";
-$username = "todo-admin";
-$password = "vgLXE,g}BgC#";
+$username = "username";
+$password = "password";
 $dbname = "todo";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
